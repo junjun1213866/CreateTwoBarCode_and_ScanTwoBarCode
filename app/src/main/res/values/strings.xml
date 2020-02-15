@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">CreateTwoBarCode_and_ScanTwoBarCode</string>
+    <string name="title_textview" translatable="false">选择功能</string>
+    <string name="create_button" translatable="false">生成二维码</string>
+    <string name="scan_button" translatable="false">扫描二维码</string>
+    <string name="create_title" translatable="false">生成二维码</string>
+    <string name="scan_title" translatable="false">扫描二维码</string>
+    <string name="input" translatable="false">输入要生成的二维码信息:</string>
+    <string name="create" translatable="false">生成</string>
+    <string name="scan" translatable="false">扫描</string>
+    <string name="output" translatable="false">扫描结果：</string>
+    <string name="exit" translatable="false">退出</string>
+</resources>
